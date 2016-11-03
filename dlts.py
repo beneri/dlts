@@ -1,11 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-import wget
-import csv
-import math
-import string
-import os, sys, fileinput
 import re
 import argparse
 import urllib2
